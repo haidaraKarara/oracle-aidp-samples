@@ -1,4 +1,4 @@
-# Oracle AI Data Platform Workbench Samples
+# Oracle AI Data Platform Samples
 
 This repository contains a curated collection of sample notebooks demonstrating how to build data pipelines, run machine learning workloads, and integrate AI capabilities using **Oracle AI Data Platform (AIDP) Workbench** — a unified, governed workspace for data engineering, ML, and AI development powered by Apache Spark.
 
